@@ -1,4 +1,4 @@
-from ttkbootstrap.style import Style
+from ttkbootstrap.style import Style, Tk
 from ttkbootstrap.style import Bootstyle
 from ttkbootstrap.widgets import *
 from ttkbootstrap.window import Window, Toplevel
